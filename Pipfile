@@ -1,7 +1,7 @@
 [packages]
 pexpect = "*"
 vdf = "*"
-xdg = "*"
+xdg = "4.0.1"
 docopt = "*"
 requests = "*"
 python-dateutil = "*"
